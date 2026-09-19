@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+
+# Jupyter Notebook / JupyterLab
+.ipynb_checkpoints/
+
+# Virtual Environment
+venv/
+.venv/
+
+# Environment variables / secrets
+.env
+.env.*
+
+# VS Code
+.vscode/
+
+# Jupyter runtime files
+.jupyter/
+
+# Temporary files
+*.tmp
+*.temp
